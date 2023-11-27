@@ -1,0 +1,13 @@
+build
+auto_build
+*.out
+/cmake-build-debug/
+
+.clone/
+.idea/
+.vscode/
+draft/
+temp.log
+**/out.log
+*.png
+advisor-project/
